@@ -985,10 +985,10 @@ html, body{ max-width: 100%; overflow-x: clip; }
 .university-mark{ padding: 8%; }
 .university-mark img{ width: 94%; height: auto; max-height: 42%; object-fit: contain; border-radius: 0; filter: none; }
 
-.recruiter-note {
-  grid-template-columns: 1fr;
+.process-section .recruiter-note {
+  display: block !important;
 }
-.recruiter-note p {
-  max-width: none;
-  width: 100%;
+.process-section .recruiter-note p {
+  max-width: none !important;
+  width: 100% !important;
 }
