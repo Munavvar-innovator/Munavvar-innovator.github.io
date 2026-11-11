@@ -984,11 +984,3 @@ html, body{ max-width: 100%; overflow-x: clip; }
 /* Northeastern University full wordmark inside the academic project disc. */
 .university-mark{ padding: 8%; }
 .university-mark img{ width: 94%; height: auto; max-height: 42%; object-fit: contain; border-radius: 0; filter: none; }
-
-.process-section .recruiter-note {
-  display: block !important;
-}
-.process-section .recruiter-note p {
-  max-width: none !important;
-  width: 100% !important;
-}
